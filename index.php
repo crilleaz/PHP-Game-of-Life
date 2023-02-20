@@ -41,7 +41,7 @@
         <button id="start-button">Start</button>
         <button id="stop-button">Stop</button>
         <div>
-            Cells born: <span id="cells-born">0</span>
+            Cells active: <span id="cells-born">0</span>
         </div>
         <div>
             Cells died: <span id="cells-died">0</span>
