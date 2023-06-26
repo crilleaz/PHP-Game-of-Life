@@ -7,4 +7,4 @@ John Conways Game of Life in PHP
 
 
 # Discord
-* Crille#6623
+Crilleaz
